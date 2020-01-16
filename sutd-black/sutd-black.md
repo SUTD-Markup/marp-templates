@@ -2,13 +2,14 @@
 marp: true
 theme: gaia
 size: 16:9
+title: SUTD Black
 _paginate: false
 paginate: true
 _footer: ""
 footer: Footer here
 ---
 
-<!-- SUTD Red Marp template by SUTD Markup -->
+<!-- SUTD Black Marp template by SUTD Markup -->
 
 <!-- _backgroundColor: white -->
 <!-- _class: title -->

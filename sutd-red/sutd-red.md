@@ -2,6 +2,7 @@
 marp: true
 theme: gaia
 size: 16:9
+title: SUTD Red
 _paginate: false
 paginate: true
 _footer: ""
