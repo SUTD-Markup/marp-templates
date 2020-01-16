@@ -1,0 +1,8 @@
+  {
+    "ignoredFiles": [
+    	"*.png",          // ignore by extension
+      "*.jpg",          // ignore by extension
+    ],
+    "aggressiveCompression": false
+    "compressWiki": false
+}
